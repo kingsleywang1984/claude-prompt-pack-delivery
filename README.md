@@ -1,46 +1,37 @@
-# The Claude Prompt Pack
+# Claude Prompt Pack & Cheatsheet — Delivery & Downloads
 
-> 50 hand-engineered Claude prompts for students, indie hackers, and self-taught builders. Output-shaped. Edge-tested. Each prompt comes with a "why this works" note.
+This repository hosts the file delivery for a small set of digital products on Gumroad.
 
-**Buy on Gumroad: https://cwanster8.gumroad.com/l/umfabr** — NZ$19, instant download.
+## Products
 
-![cover](cover.png)
+### 🎁 [Free Sampler — 5 prompts](https://cwanster8.gumroad.com/l/dwzix)
 
-## What this is
+Five hand-picked prompts, one from each category of the full pack. Pay-what-you-want with a $0 minimum. The shortest path to seeing if these prompts are useful to you.
 
-A curated set of 50 prompts for Claude (Anthropic's AI assistant), organized into five categories:
+Direct download (no Gumroad checkout): [claude-prompt-pack-sampler.zip](https://github.com/kingsleywang1984/claude-prompt-pack-delivery/releases/download/v1.0.0/claude-prompt-pack-sampler.zip) — not password-protected.
 
-- **STUDY** — textbook compression, Anki card generation, essay critique, paper triage, pre-exam blind-spot finder
-- **CODE** — senior-engineer code review, hypothesis-driven bug debugging, refactor with justification, naming gauntlet, API design review
-- **WRITE** — voice-preserving tightener, AI-smell remover, cold outreach drafter, opening-line workshop, paragraph-level audit
-- **THINK** — pre-mortems, calibration checks, 20/80 finders, status-quo bias audits, "name the mechanism" reasoning
-- **SHIP** — 30-minute product validation, MVP scope-cutting, backlog triage, launch tweets, post-launch retrospectives
+### 📦 [The Claude Prompt Pack — 50 prompts](https://cwanster8.gumroad.com/l/umfabr) — NZ$19
 
-Every prompt is engineered with a specific output format (JSON, markdown table, structured sections) so you can build on the result instead of cleaning it up. Each one was tested on real inputs before inclusion — prompts that didn't beat a one-line baseline were cut.
+50 engineered Claude prompts across five categories: STUDY, CODE, WRITE, THINK, SHIP. Each prompt comes with a "why this works" note explaining the technique so you can adapt it.
 
-## Who buys this
+The encrypted zip lives in the [latest release](https://github.com/kingsleywang1984/claude-prompt-pack-delivery/releases/latest). The password is on the Gumroad product page.
 
-- Students using Claude for studying who want to skip the trial-and-error
-- Indie hackers using Claude for code review, launch copy, product validation
-- Self-taught builders who already know Claude is powerful but want a curated starting set
-- Anyone who's spent hours hand-crafting prompts and knows that the gap between mediocre and great is enormous
+### 🛠 [The Claude Code Cheatsheet](https://cwanster8.gumroad.com/l/fjsysa) — NZ$9
 
-## Why pay if the link is here
+Habits, workflows, and the Claude Code power features most users haven't touched — hooks, subagents, MCP servers, slash commands. The missing piece between the official docs and actually getting work done.
 
-The download URL below is public. The zip is password-protected, and the password is on the [Gumroad page](https://cwanster8.gumroad.com/l/umfabr). Buying is the way to support the work and get the convenience of a single zip.
+Encrypted zip in the [release](https://github.com/kingsleywang1984/claude-prompt-pack-delivery/releases/tag/v1.0.0). Password on the Gumroad page.
 
-If you'd rather take it free, you can. If you'd rather pay and have me make more like this, please do.
+## Why is the download link here public
 
-## Download
+Because gating the download adds friction without adding value. The zips are password-protected, and the passwords are on the Gumroad pages — so buying is the support gesture, not the access mechanism.
 
-The encrypted zip lives in the [latest release](https://github.com/kingsleywang1984/claude-prompt-pack-delivery/releases/latest). Direct link: [claude-prompt-pack.zip](https://github.com/kingsleywang1984/claude-prompt-pack-delivery/releases/download/v1.0.0/claude-prompt-pack.zip).
-
-The zip is password-protected. The password is on the Gumroad product page: https://cwanster8.gumroad.com/l/umfabr
+If you'd take a free copy, take one. If you'd rather pay and see more like this, [the Gumroad pages](https://cwanster8.gumroad.com) are how.
 
 ## License
 
-The pack is licensed for personal and commercial use. You can't resell it as a prompt pack itself, but you can use the prompts in any work you do — your projects, client work, products you ship, courses you teach.
+The packs are licensed for personal and commercial use by the holder. You cannot resell them as prompt packs / cheatsheets of your own, but you can use the content in any work you do — your projects, client work, products you ship, courses you teach.
 
 ## Tags
 
-`claude-ai` `anthropic` `prompts` `prompt-engineering` `ai-prompts` `claude-prompts` `chatgpt-alternative` `productivity` `indie-hackers` `students` `learning` `digital-product`
+`claude-ai` `anthropic` `prompts` `prompt-engineering` `claude-code` `ai-tools` `developer-tools` `productivity` `digital-product` `indie-hackers`
